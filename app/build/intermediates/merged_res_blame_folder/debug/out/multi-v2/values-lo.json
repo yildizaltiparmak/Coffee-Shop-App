@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Users\\YILDIZ ALTIPARMAK\\AndroidStudioProjects\\Coffee-Shop-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
+            "outputFile": "D:\\Users\\YILDIZ ALTIPARMAK\\AndroidStudioProjects\\Coffee-Shop-App-Yeni\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
             "map": [
                 {
                     "source": "C:\\Users\\YILDIZ ALTIPARMAK\\.gradle\\caches\\transforms-3\\05d5c5cc4568c7cdc9ed1fad17bccce0\\transformed\\core-1.6.0\\res\\values-lo\\values-lo.xml",
