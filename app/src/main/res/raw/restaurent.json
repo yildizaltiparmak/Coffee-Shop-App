@@ -140,53 +140,7 @@
       }
     ]
   },
-  {
-    "name":"McDonald's",
-    "address":"10975 State Bridge Rd.",
-    "delivery_charge": 5,
-    "image":"https://www.mcdonalds.com/content/dam/usa/nfl/assets/nav/arches-logo_108x108.jpg",
-    "hours":{
-      "Sunday":"11:00 AM - 7:00 PM",
-      "Monday":"10:00 AM - 10:00 PM",
-      "Tuesday":"10:00 AM - 10:00 PM",
-      "Wednesday":"10:00 AM - 8:00 PM",
-      "Thursday":"10:00 AM - 10:00 PM",
-      "Friday":"10:00 AM - 10:00 PM",
-      "Saturday":"9:00 AM - 2:00 PM"
-    },
-    "menus": [
-      {
-        "name": "Chocolate Shake",
-        "price": 4.95,
-        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
-      },
-      {
-        "name": "Strawberry Shake",
-        "price": 3.59,
-        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
-      },
-      {
-        "name": "Filet-O-Fish",
-        "price": 5.49,
-        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
-      },
-      {
-        "name": "McNuggets",
-        "price": 3.99,
-        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
-      },
-      {
-        "name": "Combo Meal",
-        "price": 8.29,
-        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
-      },
-      {
-        "name": "McMuffin Meal",
-        "price": 6.99,
-        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
-      }
-    ]
-  },
+
   {
     "name":"Zaxby's",
     "address":"8777 windward pkwy.",
